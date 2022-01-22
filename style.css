@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: rgb(231,229,230) !important;
+}
+.nav-link{
+    font-size: 11px; 
+    color: black !important;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 100px;
+}
+.search{
+    position: relative;
+    margin-top: 10px;
+}
+.absolute{
+    position: absolute;
+    right: 10px;
+    top: 6px;
+}
+.actives{
+    background-color: #EE7E01;
+    color: white !important;
+}
+.back{
+    background-color: rgb(52,65,71);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.nav-link:hover{
+    background-color: #EE7E01;
+    color: white !important;
+}
+.btn-access{
+    background-color: #057A82;
+    margin-top: 50px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.btn-access:hover{
+    background-color: white ;
+    color: #057A82;
+    border: 1px solid #057A82;
+}
+.btn-mure{
+    background-color: #057A82;
+    margin-top: 50px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 600px;
+}
+.btn-mure:hover{
+    background-color: white ;
+    color: #057A82;
+    border: 1px solid #057A82;
+}
+.top{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.mid{
+    background: url(Images/Mid-Home-Banner.jpg);
+    background-size: cover; 
+}
+
+.bank-closa{
+    color: rgb(171,187,1); 
+    font-weight: 700; 
+    font-size: 30px;
+    line-height: 50px;
+}
+.closa{
+   font-weight: 700; 
+   font-size: 90px;
+}
+.think{
+    color: black; 
+    font-size: 30px; 
+    font-weight: 500;
+}
+.btn-pin{
+    border: 1px solid rgb(255,130,0);
+    color: black;
+}
+.btn-pin:hover{
+    border: 1px solid black;
+    color: black;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+} 
+.topa{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.home{
+    color: black;
+}
+.home:hover{
+    text-decoration: none;
+}
+.star{
+    color: rgb(115,184,253);
+}
+.star:hover{
+    color: rgb(115,184,253);
+    text-decoration: none;
+}
+.navbars{
+     background-color: rgb(125,142,150) !important; 
+}
+.navbar-brands{
+    padding-left: 30px;
+    color: white;
+}
+.btn-log-in{
+    background-color: rgb(38,52,59);
+    color: white;
+    font-size: 10px;
+    font-weight: 500;
+    margin-left: 30px;
+}
+.bg{
+    background: url('Images/eNaira-hm.jpg');
+    background-size: cover;
+    height: 70vh;
+}
+.gh{
+    margin-top: 11rem;
+}
+.go{
+    background: url('Images/Digital-Innovation-2021.jpg');
+    background-size: cover;
+    height: 70vh;
+}
+.goes{
+    margin-top: 11rem;
+}
+.do{
+    background: url('Images/Bancassurance-home.jpg');
+    background-size: cover;
+    height: 70vh;
+}
+.did{
+    margin-top: 11rem;
+}
+.met{
+    background: url('Images/ATF.jpg');
+    background-size: cover;
+    height: 70vh;
+}
+.meet{
+    margin-top: 11rem;
+}
+.say{
+    background: url('Images/Business-Banking.jpg');
+    background-size: cover;
+    height: 70vh;
+}
+.said{
+    margin-top: 11rem;
+}
+.pin{
+    background: url('Images/Fraud-Campaign-Aug-21.jpg');
+    background-size: cover;
+    height: 70vh;
+}
+.pan{
+    margin-top: 11rem;
+}
+.fan{
+    background: url('Images/Distribitors-Forum-Home.jpg');
+    background-size: cover;
+    height: 70vh;
+}
+.fem{
+    margin-top: 11rem;
+}
+.rat{
+    font-size: 11px;
+    border-right: 1px solid white;
+    text-align: center;
+}
